@@ -1,0 +1,24 @@
+.promo {
+  background-color: #6cb9ab;
+  color: #fff;
+}
+.promo__container {
+  padding: 210px 0px 80px;
+  background-image: url('../images/promo-img.png');
+  background-position: right 133px bottom 0px;
+  background-repeat: no-repeat;
+}
+.promo__title {
+  font-weight: 400;
+  font-size: 88px;
+  line-height: 1.1;
+  margin-top: 0;
+  margin-bottom: 60px;
+  max-width: 800px;
+}
+.promo__link {
+  border: 1px solid #fff;
+  border-radius: 4px;
+  padding: 16px 24px;
+  display: inline-block;
+}
